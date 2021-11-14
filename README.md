@@ -1,5 +1,5 @@
 # CinemaNow
-A movie api created using Vapor, Fluent (ORM) and Postgres
+A movie review system, created using Vapor, Fluent (ORM) and Postgres
 
 
 Here is a project is a movie rating system,
