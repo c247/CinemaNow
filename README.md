@@ -1,11 +1,9 @@
 # CinemaNow
-A movie review system, created using Vapor, Fluent (ORM) and Postgres
+A movie review system, created using Vapor 5, Fluent (ORM) and Postgres DB
 
 
-Here is a project is a movie rating system,
+A complete movie ranking system.
 
-Implemented all CRUD operations and uses Postgres Database.
-
-The API is created using Vapor 5 (swift).
+Implemented all CRUD operations
 
 Open the package.swift file to launch project in XCode.
