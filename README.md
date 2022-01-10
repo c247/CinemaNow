@@ -6,4 +6,5 @@ A complete movie ranking system.
 
 Implemented all CRUD operations
 
+## How to use:
 Open the package.swift file to launch project in XCode. Then build and run with target device as your macbook. Then the backend is live!
